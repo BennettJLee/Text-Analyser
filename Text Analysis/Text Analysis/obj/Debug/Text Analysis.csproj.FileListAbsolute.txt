@@ -1,0 +1,20 @@
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe.config
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.pdb
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csprojAssemblyReference.cache
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Form1.resources
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Properties.Resources.resources
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.GenerateResource.cache
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.exe
+D:\University\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.pdb
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe.config
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.exe
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\bin\Debug\Text Analysis.pdb
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.AssemblyReference.cache
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.SuggestedBindingRedirects.cache
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Form1.resources
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text_Analysis.Properties.Resources.resources
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.GenerateResource.cache
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.csproj.CoreCompileInputs.cache
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.exe
+F:\University\100\COMPX101\Week 11\Week 11&12 Prac\Text\Text Analysis\Text Analysis\obj\Debug\Text Analysis.pdb
